@@ -33,6 +33,10 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
       <td>React.PropTypes.</td>
       <td>rpt</td>
     </tr>
+    <tr>
+        <td>chenmenglou</td>
+        <td>cml</td>
+    </tr>
 </table>
 
 ### Lifecycle Methods

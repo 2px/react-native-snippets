@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+chenmenglou${1}
+]]></content>
+  <tabTrigger>cml</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+  <description>chenmenglou.</description>
+</snippet>

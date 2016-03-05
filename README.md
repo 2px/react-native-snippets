@@ -34,8 +34,8 @@ Install via [Package Control](http://wbond.net/sublime_packages/package_control)
       <td>rpt</td>
     </tr>
     <tr>
-        <td>chenmenglou_react_native</td>
-        <td>cml_react_native</td>
+        <td>chenmenglou</td>
+        <td>cml</td>
     </tr>
 </table>
 
